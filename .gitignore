@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+Thumbs.db
+bun.lock
+bun.lockb
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
